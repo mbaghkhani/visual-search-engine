@@ -56,5 +56,5 @@ Then open the link shown in your browser.
 ---
 
 ## Developed by
-Your Name — Summer 2025  
+Summer 2025  
 For Advanced Computer Vision Course (Filoger)
