@@ -50,7 +50,7 @@ Then open the link shown in your browser.
 ## Notes
 
 - The project uses `openai/clip-vit-base-patch32` as the feature extractor.
-- Dataset used: Tiny-ImageNet (downloaded using Hugging Face Datasets).
+- Dataset used: Tiny-ImageNet (downloaded using Hugging Face Datasets). https://huggingface.co/datasets/zh-plus/tiny-imagenet
 - Similarity search is based on cosine similarity via normalized vectors in FAISS.
 
 ---
