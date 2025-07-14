@@ -23,6 +23,7 @@ It is developed as the final project for the Advanced Computer Vision course (Fi
 - `clip_image_paths.npy` : Numpy array of file paths corresponding to each vector in the index.
 - `image_features_clip.npz` : Compressed file containing all extracted features and paths.
 - `visual-search-engine.ipynb` : Notebook to extract features from dataset images and build the FAISS index.
+> **Note**: Due to large file sizes, only core code files are uploaded. To fully run the app, please run the notebook to generate the missing files.
 
 ---
 
